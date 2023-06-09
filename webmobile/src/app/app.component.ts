@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'webmobile';
+  message = 'This is a sample website built with Angular!';
 }
