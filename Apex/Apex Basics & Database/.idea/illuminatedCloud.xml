@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IlluminatedCloudSettings">
+    <option name="connections">
+      <list>
+        <IlluminatedCloudConnection>
+          <option name="connectionName" value="https://d8e000000daigeaq-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home" />
+          <option name="connectionType" value="OAUTH" />
+          <option name="defaultModuleName" value="Apex Basics &amp; Database" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/https___d8e000000daigeaq_dev_ed_develop_lightning_force_com_lightning_setup_SetupOneHome_home/OfflineSymbolTable.zip" />
+        </IlluminatedCloudConnection>
+      </list>
+    </option>
+  </component>
+</project>
